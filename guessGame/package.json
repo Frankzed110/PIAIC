@@ -1,0 +1,13 @@
+{
+  "name": "guessgame_byfrank",
+  "version": "1.1.0",
+  "description": "",
+  "main": "GuessGame.js",
+  "type": "module",
+  "bin": "./GuessGame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
